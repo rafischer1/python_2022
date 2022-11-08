@@ -10,3 +10,5 @@
 # Alias command: 
 p3 == python3
 ```
+
+[🐍 Python Cheat Sheet Github 🐍](https://github.com/aneagoie/ztm-python-cheat-sheet)
