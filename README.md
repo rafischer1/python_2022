@@ -6,3 +6,7 @@
 
 - Interpreter running `cpython` language on a virtual machine...🤔
 
+```py
+# Alias command: 
+p3 == python3
+```
