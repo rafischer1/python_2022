@@ -1,2 +1,5 @@
 # python_2022
-python course
+
+[🐍 PYTHON DOCS 🐍](https://www.python.org/)
+
+
