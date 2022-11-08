@@ -22,8 +22,9 @@ p3 == python3
 ### Variable naming
 
 - snake_case
-- starts with lowercase or _
+- starts with lowercase or _ (private var)
 - letters, numbers, underscores
 - case sensitive
+- constants all uppercase (convention)
 - don't use a keyword! 🤦‍♀️
 
