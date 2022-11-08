@@ -12,3 +12,5 @@ p3 == python3
 ```
 
 [🐍 Python Cheat Sheet Github 🐍](https://github.com/aneagoie/ztm-python-cheat-sheet)
+
+[Math Functions](https://docs.python.org/3/library/math.html)
