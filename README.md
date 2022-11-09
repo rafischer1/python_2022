@@ -19,6 +19,8 @@ p3 == python3
 
 [String Functions](https://www.w3schools.com/python/python_ref_string.asp)
 
+[List Functions](https://www.w3schools.com/python/python_ref_list.asp)
+
 [List of Keywords](https://www.w3schools.com/python/python_ref_keywords.asp)
 
 [Built in Functions](https://docs.python.org/3/library/functions.html)
@@ -35,3 +37,5 @@ p3 == python3
 ----------------
 
 `print(string[::-1])  # reverse a string`
+
+`list methods modify mostly in place so 1. modify, 2. reassign aka -> None`
