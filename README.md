@@ -17,9 +17,11 @@ p3 == python3
 
 [Math Functions](https://docs.python.org/3/library/math.html)
 
-[String Functions](https://www.w3schools.com/python/python_ref_string.asp)
+[String Methods](https://www.w3schools.com/python/python_ref_string.asp)
 
-[List Functions](https://www.w3schools.com/python/python_ref_list.asp)
+[List Methods](https://www.w3schools.com/python/python_ref_list.asp)
+
+[Dictionary Methods](https://www.w3schools.com/python/python_ref_dictionary.asp)
 
 [List of Keywords](https://www.w3schools.com/python/python_ref_keywords.asp)
 
