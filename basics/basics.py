@@ -20,4 +20,5 @@ some_value += 2
 print(some_value)
 
 # escape sequences
-weather = 'It\'s sunny'
+weather = 'It\'s \t sunny \n now'
+print(weather)

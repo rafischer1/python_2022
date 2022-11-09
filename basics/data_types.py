@@ -30,6 +30,15 @@ print(type("2"), long_string)
 # type conversion
 print(type(int(str(100))))
 
+# formatted string
+name = "Artman"
+age = 33
+print(f"Hi {name} you are {age + 6} years old")
+print("Hi {1} you are {0} years old".format("Dude", age))
+print("Hi {new_name} you are {new_age} years old".format(
+    new_name="Cool", new_age=4))
+print(name[1:6:2])  # start:stop:stepover
+print(name[::-1])  # reverse a string
 # list
 # tuple
 # set
