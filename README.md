@@ -48,6 +48,6 @@ p3 == python3
 a, b, c, *other, d = [1, 2, 3, 4, 5, 6]
 
 print(a, c, b, d, other)
-# 1 2 3 6 [4, 5]
+# 1 3 2 6 [4, 5]
 ``` 
 
