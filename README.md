@@ -39,3 +39,15 @@ p3 == python3
 `print(string[::-1])  # reverse a string`
 
 `list methods modify mostly in place so 1. modify, 2. reassign aka -> None`
+
+`Keyword in is cool: print(3.14 in pi)`
+
+```python
+#unpacking a list:
+
+a, b, c, *other, d = [1, 2, 3, 4, 5, 6]
+
+print(a, c, b, d, other)
+# 1 2 3 6 [4, 5]
+``` 
+
