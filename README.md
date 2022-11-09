@@ -23,6 +23,8 @@ p3 == python3
 
 [Dictionary Methods](https://www.w3schools.com/python/python_ref_dictionary.asp)
 
+[Set Methods](https://www.w3schools.com/python/python_ref_set.asp)
+
 [List of Keywords](https://www.w3schools.com/python/python_ref_keywords.asp)
 
 [Built in Functions](https://docs.python.org/3/library/functions.html)
@@ -53,3 +55,4 @@ print(a, c, b, d, other)
 # 1 3 2 6 [4, 5]
 ``` 
 
+`dict method .items() returns items in a tuple`

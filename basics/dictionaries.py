@@ -14,3 +14,5 @@ print(d.get("b"), d.get(1))  # None means not found | undefined
 d2 = dict(name="me")
 print(d2)
 print("in Keys || in Values: ", "name" in d2.keys(), "me" in d2.values())
+d2.update({"your_name": "you"})
+print(d2)
