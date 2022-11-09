@@ -18,7 +18,18 @@ print(abs(-3.5))
 # bool <class 'bool'>
 print(type(2 == 2))
 # str <class 'str'>
-print(type("2"))
+long_string = '''
+WOW
+00
+----
+.........
+MOM
+'''
+print(type("2"), long_string)
+
+# type conversion
+print(type(int(str(100))))
+
 # list
 # tuple
 # set
