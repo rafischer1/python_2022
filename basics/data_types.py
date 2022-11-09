@@ -17,6 +17,8 @@ print(round(3.5))
 print(abs(-3.5))
 # bool <class 'bool'>
 print(type(2 == 2))
+print(False, True)
+print(bool(0), bool(1))
 # str <class 'str'>
 long_string = '''
 WOW
@@ -39,7 +41,12 @@ print("Hi {new_name} you are {new_age} years old".format(
     new_name="Cool", new_age=4))
 print(name[1:6:2])  # start:stop:stepover
 print(name[::-1])  # reverse a string
-# list
+word = "Hello"
+trans = word.maketrans("H", "M")
+print(word.translate(trans))
+index = word.find("e")
+print(index)
+
 # tuple
 # set
 # dict

@@ -17,7 +17,11 @@ p3 == python3
 
 [Math Functions](https://docs.python.org/3/library/math.html)
 
+[String Functions](https://www.w3schools.com/python/python_ref_string.asp)
+
 [List of Keywords](https://www.w3schools.com/python/python_ref_keywords.asp)
+
+[Built in Functions](https://docs.python.org/3/library/functions.html)
 
 ### Variable naming
 
@@ -28,3 +32,6 @@ p3 == python3
 - constants all uppercase (convention)
 - don't use a keyword! 🤦‍♀️
 
+----------------
+
+`print(string[::-1])  # reverse a string`
