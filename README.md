@@ -29,6 +29,8 @@ p3 == python3
 
 [Built in Functions](https://docs.python.org/3/library/functions.html)
 
+[Asyncio Docs ⏯](https://docs.python.org/3/library/asyncio.html?highlight=asyncio#module-asyncio)
+
 ### Variable naming
 
 - snake_case

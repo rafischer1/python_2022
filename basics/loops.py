@@ -1,4 +1,5 @@
 # For Loops
+import asyncio
 my_list = ["a", "b", "c"]
 
 for i in my_list:
@@ -18,3 +19,13 @@ for key, value in user.items():
     print(key, value)
 
 # range()
+
+# Quick async hookup with asyncio
+
+
+async def main():
+    print('Hello ...')
+    await asyncio.sleep(.5)
+    print('... World!')
+
+asyncio.run(main())
