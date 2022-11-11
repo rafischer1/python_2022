@@ -19,6 +19,15 @@ for key, value in user.items():
     print(key, value)
 
 # range()
+for i in range(0, 20, 3):
+  if i % 5 == 0:
+    print(i)
+
+# enumerated - for needing index counter
+for i,char in enumerate("hi"):
+  print(i, char)
+
+
 
 # Quick async hookup with asyncio
 
