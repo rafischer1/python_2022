@@ -18,3 +18,14 @@ print(can_message)
 # Short Circuiting 'or' 'and'
 print(is_friend or is_user, is_user and is_friend)
 # short circuits if the first condition is met
+
+# Logical Operators
+# and or > < == != not
+print("a" > "A")  # True -> ascii numbering 97 > 65
+print(not (1 == 1))  # Flips the script
+
+# is vs ==
+print(True == 1)  # bool(1) so true
+print(True is 1)
+print(1 is 1)  # is the location in memory the same
+print([] is [])  # False because lists are created in new locations
