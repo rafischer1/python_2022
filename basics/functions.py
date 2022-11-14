@@ -1,5 +1,5 @@
 # Functions
-# paramatera define what arguments a function needs
+# paramaters define what arguments a function needs
 def print_message(msg="hi") -> None:
     if not isinstance(msg, str):
         print("Error: input must be string. Input type: ", type(msg))
