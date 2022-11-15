@@ -18,11 +18,11 @@ def fizz_buzz(x: int) -> list:
         if i == 0:
             pass
         elif i % 3 == 0 and i % 5 == 0:
-            res.append(str(i) + " FIZZ BUZZ")
+            res.append(str(i) + ": FIZZ BUZZ (3 & 5)")
         elif i % 3 == 0 and i % 5 != 0:
-            res.append(str(i) + " FIZZ")
+            res.append(str(i) + ": FIZZ (3)")
         elif i % 5 == 0 and i % 3 != 0:
-            res.append(str(i) + " BUZZ")
+            res.append(str(i) + ": BUZZ (5)")
     return res
 
 
