@@ -27,4 +27,50 @@ def fizz_buzz(x: int) -> list:
 
 
 fizz = fizz_buzz(100)
-print(fizz)
+# print(fizz)
+
+# methods exist on the type
+print("hi".capitalize())
+
+# docstrings
+
+
+def test(a):
+    '''
+    Info: this func prints param A
+    '''
+    print(a, test.__doc__)
+
+
+test("a")
+
+# kwargs (key word args)
+
+
+def super_func(*args, **kwargs):
+    total = 0
+    for i in kwargs.values():
+        total += i
+
+    return sum(args) + total
+
+
+print(super_func(1, 2, 3, num=2, num2=3, num3=100))
+
+# rule: params, *args, default params, **kwargs
+
+
+def highest_even(li):
+    evens = []
+    for i in li:
+        if i % 2 == 0:
+            evens.append(i)
+    return max(evens)
+
+
+print("HIGHEST: ", highest_even([11, 12, 1, 2, 3, 4]))
+
+# walrus operator :=
+walrus = "walrussdaffsdf"
+if ((n := len(walrus)) > 10):
+    print(f"too long a walrus {n}")

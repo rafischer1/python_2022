@@ -58,3 +58,22 @@ print(a, c, b, d, other)
 ``` 
 
 `dict method .items() returns items in a tuple`
+
+```py
+# docstrings
+def test(a):
+  '''
+  Info: this func prints param A
+  '''
+  print(test.__doc__)
+  ```
+ 
+  ```py
+  # walrus operator :=
+walrus = "walrussdaffsdf"
+
+if ((n := len(walrus)) > 10):
+    print(f"too long a walrus {n}")
+
+  # too long a walrus 14
+  ```
