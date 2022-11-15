@@ -27,4 +27,7 @@ def fizz_buzz(x: int) -> list:
 
 
 fizz = fizz_buzz(100)
-print(fizz)
+# print(fizz)
+
+# methods exist on the type
+print("hi".capitalize())
