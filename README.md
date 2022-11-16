@@ -31,6 +31,8 @@ p3 == python3
 
 [Errors! Built in Exemptions](https://docs.python.org/3/library/exceptions.html)
 
+[🗄 Python Modules 🗄](https://docs.python.org/3/py-modindex.html)
+
 [Python Exercises Github](https://github.com/darkprinx/break-the-ice-with-python)
 
 [Asyncio Docs ⏯](https://docs.python.org/3/library/asyncio.html?highlight=asyncio#module-asyncio)
