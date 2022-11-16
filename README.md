@@ -33,6 +33,10 @@ p3 == python3
 
 [🗄 Python Modules 🗄](https://docs.python.org/3/py-modindex.html)
 
+[🗂 Python Package Index 🗂](https://pypi.org/)
+
+[🐛 Debugger 🐛](https://docs.python.org/3/library/pdb.html)
+
 [Python Exercises Github](https://github.com/darkprinx/break-the-ice-with-python)
 
 [Asyncio Docs ⏯](https://docs.python.org/3/library/asyncio.html?highlight=asyncio#module-asyncio)
