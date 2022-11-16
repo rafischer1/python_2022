@@ -29,6 +29,8 @@ p3 == python3
 
 [Built in Functions](https://docs.python.org/3/library/functions.html)
 
+[Errors! Built in Exemptions](https://docs.python.org/3/library/exceptions.html)
+
 [Asyncio Docs ⏯](https://docs.python.org/3/library/asyncio.html?highlight=asyncio#module-asyncio)
 
 ### Variable naming
@@ -77,3 +79,14 @@ if ((n := len(walrus)) > 10):
 
   # too long a walrus 14
   ```
+
+  `list(map(lambda item: item * 100, [4, 5, 6]))`
+
+  ```py
+  # Fizz Buzz in list comprehension
+  ['fizz_buzz' if i % 3 == 0 and i % 5 == 0 else 'fizz' if i % 3 == 0 else 'buzz' if i % 5 == 0 else i for i in range(1, 100)]
+  ```
+
+  [Performance Decorator Example](https://replit.com/@ArtieFischer/decorators#main.py)
+
+  [@auth decorator example](https://replit.com/@ArtieFischer/decorators-1#main.py)
