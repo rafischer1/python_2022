@@ -37,6 +37,10 @@ p3 == python3
 
 [🐛 Debugger 🐛](https://docs.python.org/3/library/pdb.html)
 
+[🛣 Filepaths 🛣](https://docs.python.org/3/library/pathlib.html)
+
+[REGEX](https://www.w3schools.com/python/python_regex.asp)
+
 [Python Exercises Github](https://github.com/darkprinx/break-the-ice-with-python)
 
 [Asyncio Docs ⏯](https://docs.python.org/3/library/asyncio.html?highlight=asyncio#module-asyncio)
