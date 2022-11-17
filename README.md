@@ -31,6 +31,8 @@ p3 == python3
 
 [Errors! Built in Exemptions](https://docs.python.org/3/library/exceptions.html)
 
+[UNITTEST PACKAGE](https://docs.python.org/3/library/unittest.html)
+
 [🗄 Python Modules 🗄](https://docs.python.org/3/py-modindex.html)
 
 [🗂 Python Package Index 🗂](https://pypi.org/)
