@@ -7,3 +7,8 @@ app = Flask(__name__)
 def hello_world():
     url_for('static', filename='main.70a66962.js')
     return render_template("./index.html")
+
+
+@app.route('/about')
+def about():
+    return render_template("./about.html")
