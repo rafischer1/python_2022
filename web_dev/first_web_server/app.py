@@ -7,8 +7,3 @@ app = Flask(__name__)
 def hello_world():
     url_for('static', filename='main.70a66962.js')
     return render_template("./index.html")
-
-
-@app.route('/blog')
-def hello_blog():
-    return 'Hello, World BLOG'
