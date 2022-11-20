@@ -5,8 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    print("HELLO RUNNING")
-    url_for('static', filename='script.js')
+    url_for('static', filename='main.70a66962.js')
     return render_template("./index.html")
 
 
