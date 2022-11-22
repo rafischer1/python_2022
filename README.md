@@ -37,6 +37,8 @@ p3 == python3
 
 [🗂 Python Package Index 🗂](https://pypi.org/)
 
+[PythonAnywhere w/ FLASK: Hosting](https://help.pythonanywhere.com/pages/Flask/)
+
 [🐛 Debugger 🐛](https://docs.python.org/3/library/pdb.html)
 
 [🛣 Filepaths 🛣](https://docs.python.org/3/library/pathlib.html)

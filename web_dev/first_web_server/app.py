@@ -20,3 +20,5 @@ def submit_form():
         data = request.form.to_dict()
         print(data)
         return 'form submitted!'
+    else:
+        return 'error on submit'
