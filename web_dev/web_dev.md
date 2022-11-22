@@ -9,5 +9,5 @@
 `venv/bin/activate`
 
 ```
-initial app export: export FLASK_APP=web_dev/first_web_server/server.py
+initial app export: export FLASK_APP=web_dev/first_web_server/app.py
 ```
