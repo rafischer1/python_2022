@@ -34,7 +34,8 @@ def main(args):
             print(f'{password} was found {count} times...change that password')
         else:
             print(f'{password} not found')
+    return '(done)'
 
 
 if __name__ == "__main__":
-    main(sys.argv[1:])
+    sys.exit(main(sys.argv[1:]))
