@@ -6,7 +6,7 @@ def send_message(message):
     url = "https://ntfy.sh/world_cup"
     priority = "4"
     requests.post(url, data=message.encode(encoding='utf-8'),
-                  headers={"Priority": priority, "Tags": 'ghost', "topic": "python test".upper()})
+                  headers={"Priority": priority, "Tags": 'cherries', "topic": "python test".upper()})
 
 
 def main(message):
