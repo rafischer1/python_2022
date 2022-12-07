@@ -49,6 +49,8 @@ p3 == python3
 
 [Asyncio Docs ⏯](https://docs.python.org/3/library/asyncio.html?highlight=asyncio#module-asyncio)
 
+[Selenium Testing](https://selenium-python.readthedocs.io/)
+
 ### Variable naming
 
 - snake_case
