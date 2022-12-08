@@ -4,3 +4,14 @@
 
 - Machine Learning expert and Data Scientist are often the same
 
+## Supervised, Unsupervised, and Reinforcement
+
+- Supervised: classification and prediction based on testing
+
+- Unsupervised: a csv without headings...the machine groups things without preset classifications
+
+- Reinforcement: teaching machines through trial and error. Maximize a game score through skill acquisition
+
+## Links
+
+[🧟‍♂️ Facebook ML Manual](https://research.facebook.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
