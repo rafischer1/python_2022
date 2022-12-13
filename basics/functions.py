@@ -68,7 +68,7 @@ def highest_even(li):
     return max(evens)
 
 
-print("HIGHEST: ", highest_even([11, 12, 1, 2, 3, 4]))
+print("HIGHEST EVEN: ", highest_even([11, 12, 1, 2, 3, 4]))
 
 # walrus operator :=
 walrus = "walrussdaffsdf"
